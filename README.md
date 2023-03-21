@@ -1,3 +1,5 @@
+This is a mini React project : best-selling-books
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
