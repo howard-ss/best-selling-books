@@ -19,4 +19,3 @@ const BookList = () => {
 export default BookList
 
 
-//from react-course-v3: John-smilga
