@@ -1,6 +1,6 @@
 import React from 'react'
 import Book from './Book'
-import Book2 from './book2'
+import Book2 from './Book2'
 import Book3 from './Book3'
 
 import './index.css'

@@ -12,7 +12,7 @@ const Book3 = () => {
 
 const Image = () => (
   <img
-    src="https://images-na.ssl-images-amazon.com/images/I/81a4bSDHqUL._AC_UL900_SR900,600_.jpg"
+    src="https://m.media-amazon.com/images/I/515N5xQGsAL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
     alt="Daisy Jones & The Six"
   />
 );

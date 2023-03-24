@@ -12,8 +12,10 @@ const Book = () => {
 };
 
 const Image = () => (
-    <img src='https://images-na.ssl-images-amazon.com/images/I/81fyoFoaxlL._AC_UL900_SR900,600_.jpg'
-         alt='Dog Man' />
+  <img
+    src="https://m.media-amazon.com/images/I/51VyW1qRmSL._SX329_BO1,204,203,200_.jpg"
+    alt="Dog Man"
+  />
 );
 const Title = () => (
      <h2> Dog Man</h2>
